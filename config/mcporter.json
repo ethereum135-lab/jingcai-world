@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "wecom-doc": {
+      "baseUrl": "https://qyapi.weixin.qq.com/mcp/robot-doc?apikey=Z4vzwNBgoAbY-pUhGEXdxQVW3dYnoCtW6n2pk4Ve4YYXkWj2O9ItW656XJqV6SNkGEfkAOuuxhN3Mm4vlZYOOw"
+    }
+  },
+  "imports": []
+}
