@@ -1,0 +1,2 @@
+@reboot /home/administrator/start-openclaw.sh
+* * * * * pgrep -f "openclaw" > /dev/null || /home/administrator/start-openclaw.sh

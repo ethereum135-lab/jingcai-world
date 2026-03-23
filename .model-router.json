@@ -1,0 +1,25 @@
+{
+  "api_keys": {
+    "kimi": "",
+    "deepseek": "sk-366a4cb1da464cf3873baba351310c38",
+    "qwen": "",
+    "openai": ""
+  },
+  "preferences": {
+    "chinese": "kimi-k2.5",
+    "math": "deepseek-reasoner",
+    "coding": "deepseek-chat",
+    "cheap": "deepseek-chat",
+    "general": "deepseek-chat",
+    "advanced": "deepseek-reasoner"
+  },
+  "budget": {
+    "daily_usd": 10,
+    "used_today": 0
+  },
+  "fallback_order": ["deepseek-chat", "deepseek-reasoner", "kimi-k2.5", "qwen-max"],
+  "health_status": {
+    "deepseek-chat": "available",
+    "deepseek-reasoner": "available"
+  }
+}
