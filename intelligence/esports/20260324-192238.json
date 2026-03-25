@@ -1,0 +1,5 @@
+{
+  "games": ["CS2", "Dota2", "LoL", "Valorant"],
+  "upcoming_matches": [],
+  "note": "需要PandaScore API Key或自建爬虫"
+}

@@ -1,0 +1,52 @@
+[
+  {
+    "id": "553849",
+    "question": "Will the Montreal Canadiens win the 2026 NHL Stanley Cup?",
+    "volume": "999249.8890790022",
+    "liquidity": "101942.59955",
+    "bestBid": 0.029,
+    "bestAsk": 0.03,
+    "category": null,
+    "resolutionTime": null
+  },
+  {
+    "id": "553840",
+    "question": "Will the St. Louis Blues win the 2026 NHL Stanley Cup?",
+    "volume": "910888.408991002",
+    "liquidity": "119340.02423",
+    "bestBid": null,
+    "bestAsk": 0.001,
+    "category": null,
+    "resolutionTime": null
+  },
+  {
+    "id": "553852",
+    "question": "Will the Pittsburgh Penguins win the 2026 NHL Stanley Cup?",
+    "volume": "882452.4472779993",
+    "liquidity": "132784.3946",
+    "bestBid": 0.027,
+    "bestAsk": 0.028,
+    "category": null,
+    "resolutionTime": null
+  },
+  {
+    "id": "553832",
+    "question": "Will the New Jersey Devils win the 2026 NHL Stanley Cup?",
+    "volume": "866457.1228320026",
+    "liquidity": "83087.72996",
+    "bestBid": 0.002,
+    "bestAsk": 0.004,
+    "category": null,
+    "resolutionTime": null
+  },
+  {
+    "id": "553838",
+    "question": "Will the Minnesota Wild win the 2026 NHL Stanley Cup?",
+    "volume": "8220671.609694018",
+    "liquidity": "107898.18123",
+    "bestBid": 0.046,
+    "bestAsk": 0.047,
+    "category": null,
+    "resolutionTime": null
+  }
+]

@@ -1,0 +1,20 @@
+
+# 竞猜世界 - 自动化任务配置
+# 由CEO特别准生成
+
+# 系统健康检查 - 每5分钟
+
+# 数据备份 - 每小时
+
+# 每日备份+Git同步 - 每天2点
+
+# 晨报生成和发送 - 每天8点
+
+# 每日复盘 - 每天22点
+
+# 团队进化 - 每天2点30分（在备份后）
+
+# 版本检查 - 每周一9点
+
+# 成本报告 - 每天23点
+@reboot nohup /home/administrator/.local/bin/openclaw gateway > /home/administrator/openclaw.log 2>&1 &

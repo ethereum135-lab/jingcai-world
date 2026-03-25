@@ -1,0 +1,42 @@
+[
+  {
+    "id": "553849",
+    "question": "Will the Montreal Canadiens win the 2026 NHL Stanley Cup?",
+    "implied_probability": 0.0295,
+    "market_price": 0.03,
+    "potential_value": -0.0005000000000000004,
+    "volume": "999249.8890790022",
+    "liquidity": "102093.66296",
+    "recommendation": "HOLD"
+  },
+  {
+    "id": "553852",
+    "question": "Will the Pittsburgh Penguins win the 2026 NHL Stanley Cup?",
+    "implied_probability": 0.027,
+    "market_price": 0.028,
+    "potential_value": -0.0010000000000000009,
+    "volume": "882452.4472779993",
+    "liquidity": "132907.34496",
+    "recommendation": "HOLD"
+  },
+  {
+    "id": "553832",
+    "question": "Will the New Jersey Devils win the 2026 NHL Stanley Cup?",
+    "implied_probability": 0.003,
+    "market_price": 0.004,
+    "potential_value": -0.001,
+    "volume": "866457.1228320026",
+    "liquidity": "83130.4617",
+    "recommendation": "HOLD"
+  },
+  {
+    "id": "553838",
+    "question": "Will the Minnesota Wild win the 2026 NHL Stanley Cup?",
+    "implied_probability": 0.046,
+    "market_price": 0.047,
+    "potential_value": -0.0010000000000000009,
+    "volume": "8220626.839694018",
+    "liquidity": "107941.71718",
+    "recommendation": "HOLD"
+  }
+]

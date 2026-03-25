@@ -1,0 +1,16 @@
+{
+  "platforms": {
+    "rollbit": {
+      "token": "RLB",
+      "burned_percentage": 38,
+      "note": "需要Dune Analytics API获取实时数据"
+    },
+    "shuffle": {
+      "note": "需要接入平台API"
+    },
+    "stakes": {
+      "note": "需要接入平台API"
+    }
+  },
+  "timestamp": "2024-01-01T00:00:00Z"
+}

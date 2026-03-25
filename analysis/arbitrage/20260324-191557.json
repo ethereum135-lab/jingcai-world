@@ -1,0 +1,5 @@
+{
+  "opportunities": [],
+  "note": "需要多平台数据接入后才能分析套利",
+  "required_platforms": ["Polymarket", "Kalshi", "Azuro", "传统博彩平台"]
+}

@@ -1,6 +1,6 @@
 {
   "server_id": "",
-  "channel_id": "",
-  "bot_token": "",
+  "channel_id": "1485635395654914058",
+  "bot_token": "${DISCORD_BOT_TOKEN}",
   "enabled": true
 }

@@ -1,0 +1,60 @@
+{
+  "agents": {
+    "ceo": {
+      "name": "特别准",
+      "token": "8587766199:AAG4KPM7lfun5kBxTs2ydrfvCsuwY_skx9M",
+      "role": "CEO",
+      "emoji": "🎯"
+    },
+    "guanjia": {
+      "name": "管家",
+      "token": "8696669713:AAH4EX2MY2I_BmyTg9kw6P4cQys-h04ezFU",
+      "role": "助理",
+      "emoji": "🎩"
+    },
+    "radar": {
+      "name": "雷达",
+      "token": "8789525776:AAFVqY1ADtewki1mt8s1tNUFiPf2U_YBnV0",
+      "role": "情报官",
+      "emoji": "📡"
+    },
+    "suanpan": {
+      "name": "算盘",
+      "token": "8718671233:AAHtm4rFhI2YPdyLBLX7birAfcxMtsaIwxU",
+      "role": "分析师",
+      "emoji": "🧮"
+    },
+    "lieshou": {
+      "name": "猎手",
+      "token": "8656312139:AAFlLRtj4DxACNVTMp7I3u3ybgmKKBbmxiw",
+      "role": "策略师",
+      "emoji": "🎯"
+    },
+    "gongjiang": {
+      "name": "工匠",
+      "token": "8695339890:AAFKIFVSzo3pNLtOkF5CMHuE7UEe1pFqFzo",
+      "role": "开发者",
+      "emoji": "🔧"
+    },
+    "laba": {
+      "name": "喇叭",
+      "token": "",
+      "role": "内容官",
+      "emoji": "📢"
+    },
+    "dunpai": {
+      "name": "盾牌",
+      "token": "",
+      "role": "安全官",
+      "emoji": "🛡️"
+    },
+    "luoxuan": {
+      "name": "螺旋",
+      "token": "",
+      "role": "进化官",
+      "emoji": "🧬"
+    }
+  },
+  "group_chat_id": "",
+  "enabled": true
+}
